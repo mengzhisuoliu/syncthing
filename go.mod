@@ -1,6 +1,6 @@
 module github.com/syncthing/syncthing
 
-go 1.24.0
+go 1.24.2
 
 require (
 	github.com/AudriusButkevicius/recli v0.0.7
@@ -16,7 +16,7 @@ require (
 	github.com/gobwas/glob v0.2.3
 	github.com/gofrs/flock v0.12.1
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/jackpal/gateway v1.0.16
+	github.com/jackpal/gateway v1.1.1
 	github.com/jackpal/go-nat-pmp v1.0.2
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/julienschmidt/httprouter v1.3.0
